@@ -11,4 +11,4 @@ When R0 fixed, if most individuals observe quarantine, the same growth can only 
 
 # Literature
 
-S. Janson and M. J. Luczak, *A new approach to the giant component problem*, Random Structures & Algorithms **34** (2009): 197-216.
+S. Janson and M. J. Luczak, *A new approach to the giant component problem*, Random Structures & Algorithms **34** (2009), 197-216.
