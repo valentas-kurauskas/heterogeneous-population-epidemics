@@ -2,6 +2,8 @@
 
 A quick script to try to understand the effect of quarantine using random graphs with a toy degree distribution. 
 
+Run in [Binder](https://mybinder.org/v2/gh/valentas-kurauskas/quarantine-effect/9a9c2f81e0ec7d2a4a3d2dd48064bec8653c1bd5).
+
 A fraction *1-p_a-ε* of the population infects *0* new individuals.
 A fraction *p_a* of them infects *a* new individuals. Finally, a fraction ε of the population infects a large number *b* of new individuals (they are "superspreaders"). We assume that the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) R0 is known and fixed, and adjust ε accordingly.
 
