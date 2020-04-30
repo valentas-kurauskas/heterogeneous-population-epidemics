@@ -11,8 +11,7 @@ When R0 fixed, if most individuals observe quarantine, the same growth can only 
 
 ![Example chart](example.png "30% infect 1, 100ε% (the superspreaders) infect b, others infect 0")
 
-For $G(n,p)$ the blue line is the ["herd immunity threshold"](https://en.wikipedia.org/wiki/Herd_immunity#Mechanics) $1 - \frac 1 {R_0}$. If herd immunity is attained via "natural infection" as opposed to vaccination, the epidemics only begins to die out once this point is reached. The total infected fraction (the green line) is quite a bit larger, it is the unique solution $\rho=\rho(R_0)$ of $1-\rho = e^{-R_0 \rho}$
-in the interval $0 < \rho < 1$.
+For *G(n,p)* the blue line is the ["herd immunity threshold"](https://en.wikipedia.org/wiki/Herd_immunity#Mechanics) *1 - 1/R0 *. If herd immunity is attained via "natural infection" as opposed to vaccination, the epidemics only begins to die out once this point is reached. The total infected fraction (the green line), or the fraction of vertices in the giant component, is quite a bit larger, it is the unique solution *ρ* of *1-ρ  = exp(-R0 ρ)* and *0 < ρ < 1*.
 
 # Literature
 
