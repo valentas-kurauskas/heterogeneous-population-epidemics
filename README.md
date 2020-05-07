@@ -1,8 +1,10 @@
 # Short description
 
-A quick script to try to understand the effect of quarantine using random graphs with a toy degree distribution. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valentas-kurauskas/heterogeneous-population-epidemics/master)
+
+This is a quick script to try to understand the effect of quarantine using random graphs with a toy degree distribution.
+It is [runnable interactively](https://mybinder.org/v2/gh/valentas-kurauskas/heterogeneous-population-epidemics/master) in your browser via Binder.
 
 A fraction *1-p_a-ε* of the population infects *0* new individuals.
 A fraction *p_a* of them infects *a* new individuals. Finally, a fraction ε of the population infects a large number *b* of new individuals (they are "superspreaders"). We assume that the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) R0 is known and fixed, and adjust ε accordingly.
