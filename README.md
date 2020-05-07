@@ -21,7 +21,7 @@ My intuition of the "superspreader effect" is that the superspreaders are more l
 
 Here the time is (monotonically) transformed by the proof of [[1]](#1), it does not match the real time.
 *y* axis in the first two subplots shows the proportion of the population. It can be seen that once the "herd immunity
-threshold" *Rt=1* is hit, a large fraction of the population is still active (infectious), so unless a strict quarantine
+threshold" *Rt=1* is hit, a large fraction of the population is still active (infectious), so unless a stricter quarantine
 is enforced at this point, the epidemics still keeps growing for a while.
 
 # Literature
