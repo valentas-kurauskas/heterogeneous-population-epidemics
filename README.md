@@ -1,7 +1,7 @@
+# Short description
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valentas-kurauskas/heterogeneous-population-epidemics/master)
-
-# Short description
 
 This is a quick script to try to understand the effect of quarantine using random graphs with a toy degree distribution.
 It is [runnable interactively](https://mybinder.org/v2/gh/valentas-kurauskas/heterogeneous-population-epidemics/master) in your browser via Binder.
