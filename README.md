@@ -15,7 +15,7 @@ When R0 fixed, if most individuals observe quarantine, the same growth can only 
 
 For *G(n,p)* the blue line is the ["herd immunity threshold"](https://en.wikipedia.org/wiki/Herd_immunity#Mechanics) *1 - 1/R0*. If herd immunity is attained via "natural infection" as opposed to vaccination, the epidemics only begins to die out once this point is reached. The total infected fraction (the green line), or the fraction of vertices in the giant component, is quite a bit larger, it is the unique solution *ρ* of *1-ρ  = exp(-R0 ρ)* and *0 < ρ < 1*.
 
-My intuition of the "superspreader" effect is that the superspreaders are more likely to get infected first so the *effective growth rate* *Rt* is largest at the beginning. This is indeed the case in our toy configuration graph model [[1]](#1), corresponding to *b=10* in the above chart (66.88% infect 0, 30.00% infect 1, 3.12% infect 10):
+My intuition of the "superspreader effect" is that the superspreaders are more likely to get infected first so the *effective growth rate* *Rt* is largest at the beginning. This is indeed the case in our toy configuration graph model [[1]](#1), corresponding to *b=10* in the above chart (66.88% infect 0, 30.00% infect 1, 3.12% infect 10):
 
 ![Example chart 2](example2.png)
 
