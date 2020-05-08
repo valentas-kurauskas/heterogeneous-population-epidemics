@@ -264,8 +264,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4000714"
-     inkscape:cx="181.41989"
-     inkscape:cy="85.210951"
+     inkscape:cx="143.9218"
+     inkscape:cy="113.78092"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -288,7 +288,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -332,19 +332,14 @@
            y="133.67625"
            x="7.7522893"
            sodipodi:role="line">(most of the population  </tspan><tspan
-           id="tspan6466"
+           id="tspan6435"
            style="font-size:1.10710561px;stroke-width:0.1383882"
            y="135.52144"
            x="7.7522893"
-           sodipodi:role="line">of this type, if quarantine</tspan><tspan
-           id="tspan6435"
-           style="font-size:1.10710561px;stroke-width:0.1383882"
-           y="137.36661"
-           x="7.7522893"
-           sodipodi:role="line">is observed and R0 is close to 1)</tspan><tspan
+           sodipodi:role="line">of this type if R0 is close to 1)</tspan><tspan
            id="tspan5049"
            style="stroke-width:0.1383882"
-           y="139.21179"
+           y="137.36661"
            x="7.7522893"
            sodipodi:role="line" /></text>
       <g
