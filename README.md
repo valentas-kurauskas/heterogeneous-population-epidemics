@@ -9,7 +9,7 @@ It is [runnable interactively](https://mybinder.org/v2/gh/valentas-kurauskas/het
 The toy degree distribution allows exactly 3 types of individuals. A fraction *1-p_a-ε* of the population infects *0* new individuals.
 A fraction *p_a* of them infects *a* new individuals. Finally, a fraction ε of the population infects a large number *b* of new individuals (they are "superspreaders"). We assume that the [basic reproduction number](https://en.wikipedia.org/wiki/Basic_reproduction_number) R0 is known and fixed, and adjust ε accordingly. 
 
-![Types of individuals](three_types.png "Three types of individuals")
+![Types of individuals](three_types.svg "Three types of individuals")
 
 For a completely mixed population with no immigration, basic theoretical models prove that if we manage to make R0 even slightly below 1 by social distancing, hand and face hygiene, closures of places where a lot of people gather closely together, an epidemic ends infecting approximately **0%** of the population altogether. If R0 remains above one, unless stopped while there are just a few cases, an epidemic explodes and infects a significant fraction of the population.
 
