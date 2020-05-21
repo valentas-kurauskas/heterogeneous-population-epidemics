@@ -28,7 +28,7 @@ Here the time is (monotonically) transformed by the proof of [[1]](#1), it does 
 threshold" *Rt=1* is hit, a large fraction of the population is still active (infectious), so unless a stricter quarantine
 is enforced at or before this point, the epidemic overshoots this threshold by a large margin.
 
-In this toy experiment I was interested in the simplified quarantine situation. The random configuration graph suggests that a similar effect should be expected more generally due to heterogeneity of a population, see [[2]](#2), [[3]](#3) and recent papers citing them.
+In this toy experiment I was interested in the simplified quarantine situation. A similar effect should occur more generally due to heterogeneity of a population, see [[2]](#2), [[3]](#3) and recent papers citing them.
 
 # Literature
 
