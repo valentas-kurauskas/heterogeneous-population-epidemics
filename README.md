@@ -30,4 +30,10 @@ is enforced at this point, the epidemics still keeps growing for a while.
 
 # Literature
 
-<a id="1">[1]</a> Svante Janson and Malwina J. Luczak, *A new approach to the giant component problem*, Random Structures & Algorithms **34** (2009), 197-216.
+<a id="1">[1]</a> Svante Janson and Malwina J. Luczak, A new approach to the giant component problem, *Random Structures & Algorithms* **34** (2009), 197-216.
+
+# Other important literature
+
+[2] Tom Britton, Svante Janson and Anders Martin-Löf, Graphs with specified degree distributions, simple epidemics, and local vaccination strategies, *Advances in Applied Probability* **39** (2007), 922-948.
+
+[3] Mark E. Newman, Spread of epidemic disease on networks, *Physical Review E* (2002) **66**, 016128. 
