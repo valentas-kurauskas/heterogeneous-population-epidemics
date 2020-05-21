@@ -28,12 +28,15 @@ Here the time is (monotonically) transformed by the proof of [[1]](#1), it does 
 threshold" *Rt=1* is hit, a large fraction of the population is still active (infectious), so unless a stricter quarantine
 is enforced at or before this point, the epidemic overshoots this threshold by a large margin.
 
+In this toy experiment I was interested in the simplified quarantine situation. The random configuration graph suggests that a similar effect should be expected more generally due to heterogeneity of a population, see [[2]](#2) and recent papers citing them.
+
 # Literature
 
 <a id="1">[1]</a> Svante Janson and Malwina J. Luczak, A new approach to the giant component problem, *Random Structures & Algorithms* **34** (2009), 197-216.
 
 # Other important literature
 
-[2] Tom Britton, Svante Janson and Anders Martin-Löf, Graphs with specified degree distributions, simple epidemics, and local vaccination strategies, *Advances in Applied Probability* **39** (2007), 922-948.
 
-[3] Mark E. Newman, Spread of epidemic disease on networks, *Physical Review E* (2002) **66**, 016128. 
+<a id="2">[2]</a> Tom Britton, Svante Janson and Anders Martin-Löf, Graphs with specified degree distributions, simple epidemics, and local vaccination strategies, *Advances in Applied Probability* **39** (2007), 922-948.
+
+<a id="3">[3]</a> Mark E. Newman, Spread of epidemic disease on networks, *Physical Review E* (2002) **66**, 016128. 
