@@ -19,14 +19,15 @@ When R0 is fixed (and R0 > 1), if most individuals observe quarantine, the same 
 
 For *G(n,p)* the blue line is the ["herd immunity threshold"](https://en.wikipedia.org/wiki/Herd_immunity#Mechanics) *1 - 1/R0*. If herd immunity is attained via "natural infection" as opposed to vaccination, the epidemic only begins to die out once this point is reached. The total infected fraction (the green line), or the fraction of vertices in the giant component, is quite a bit larger, it is the unique solution *ρ* of *1-ρ  = exp(-R0 ρ)* and *0 < ρ < 1*.
 
+In the terminology of graph theory the first chart shows the giant component size on the *y* axis as a function of the largest degree $b$ on the *x* axis while other parameters, including the expectation of size-biased degree of a random vertex *E D^2/E D - 1* are kept fixed.
+
 My intuition of the "superspreader effect" is that the superspreaders are more likely to get infected first so the *effective growth rate* *Rt* is largest at the beginning. This is indeed the case in our toy configuration graph model [[1]](#1), corresponding to *b=10* in the above chart (66.88% infect 0, 30.00% infect 1, 3.12% infect 10):
 
 ![Example chart 2](example2.png)
 
 Here the time is (monotonically) transformed by the proof of [[1]](#1), it does not match the real time.
-*y* axis in the first two subplots shows the proportion of the population. It can be seen that once the "herd immunity
-threshold" *Rt=1* is hit, a large fraction of the population is still active (infectious), so unless a stricter quarantine
-is enforced at or before this point, the epidemic overshoots this threshold by a large margin.
+*y* axis in the first two subplots shows the proportion of the population. It can be seen that an active
+epidemic does not magically stop at the herd immunity threshold *Rt=1*, a considerable additional fraction of the population is infected if no measure is taken. If a stricter quarantine is enforced at or before this point, it will not start growing again.
 
 In this toy experiment I was interested in the simplified quarantine situation. A similar effect should occur more generally due to heterogeneity of a population, see [[2]](#2), [[3]](#3) and recent papers citing them.
 
