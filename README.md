@@ -27,7 +27,7 @@ My intuition of the "superspreader effect" is that the superspreaders are more l
 
 Here the time is (monotonically) transformed by the proof of [[1]](#1), it does not match the real time.
 *y* axis in the first two subplots shows the proportion of the population. It can be seen that an active
-epidemic does not magically stop when the herd immunity threshold *Rt=1* is reached, a considerable additional fraction of the population is infected if no measure is taken. Conversely, if a stricter quarantine is enforced to stop the epidemic close to this threshold, the growth will not resume.
+epidemic does not magically stop when the herd immunity threshold *Rt=1* is reached, a considerable *additional* fraction of the population is infected if no measure is taken. Conversely, if a stricter quarantine is enforced to stop the epidemic close to this threshold, the growth will not resume.
 
 In this toy experiment I was interested in the simplified quarantine situation. A similar effect should occur more generally due to heterogeneity of a population, see [[2]](#2), [[3]](#3) and recent papers citing them.
 
