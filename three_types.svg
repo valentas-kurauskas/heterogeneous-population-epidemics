@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="107.50188mm"
+   width="151.42702mm"
    height="38.484753mm"
-   viewBox="0 0 107.50187 38.484753"
+   viewBox="0 0 151.42701 38.484753"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
@@ -1078,8 +1078,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4000714"
-     inkscape:cx="158.52496"
-     inkscape:cy="142.0518"
+     inkscape:cx="316.39024"
+     inkscape:cy="56.341862"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1102,7 +1102,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1110,7 +1110,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-8.5152658,-110.79272)">
+     transform="translate(-8.5109841,-110.79272)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot5059"
@@ -1121,191 +1121,202 @@
            height="23.214285"
            x="66.785713"
            y="522.51965" /></flowRegion><flowPara
-         id="flowPara5065" /></flowRoot>    <circle
-       style="opacity:1;fill:#afc6e9;fill-opacity:1;stroke:#000000;stroke-width:0.4938125"
-       id="circle1167"
-       cx="26.281204"
-       cy="131.87263"
-       r="2.4690626" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.75503731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25828472"
-       x="8.5213194"
-       y="113.473"
-       id="text5047"><tspan
-         sodipodi:role="line"
-         x="8.5213194"
-         y="113.473"
-         style="font-size:2.06627774px;stroke-width:0.25828472"
-         id="tspan6303"><tspan
-           style="font-size:3.52777767px;line-height:1"
-           id="tspan1413">Type 0 individual: </tspan></tspan><tspan
-         sodipodi:role="line"
-         x="8.5213194"
-         y="117.15952"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         id="tspan1415">infects 0 others, </tspan><tspan
-         sodipodi:role="line"
-         x="8.5213194"
-         y="120.84604"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         id="tspan6462">(most of the popu-</tspan><tspan
-         sodipodi:role="line"
-         x="8.5213194"
-         y="124.53255"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         id="tspan6435">lation of this type</tspan><tspan
-         sodipodi:role="line"
-         x="8.5213194"
-         y="128.21907"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         id="tspan1419">if R0 is close to 1)</tspan><tspan
-         sodipodi:role="line"
-         x="8.5213194"
-         y="131.66287"
-         style="stroke-width:0.25828472"
-         id="tspan5049" /></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11547)"
-       d="m 60.562608,131.87269 0.325986,15.73402"
-       id="path1217"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cc" />
-    <circle
-       r="2.4690626"
-       cy="131.8727"
-       cx="60.562611"
-       id="circle823"
-       style="opacity:1;fill:#afc6e9;fill-opacity:1;stroke:#000000;stroke-width:0.4938125" />
-    <text
-       id="text5083"
-       y="113.473"
-       x="45.163036"
-       style="font-style:normal;font-weight:normal;font-size:2.75503731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25828472"
-       xml:space="preserve"><tspan
-         id="tspan5077"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         y="113.473"
-         x="45.163036"
-         sodipodi:role="line">Type a individual:</tspan><tspan
-         id="tspan6238"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         y="117.15952"
-         x="45.163036"
-         sodipodi:role="line">infects a=1 other</tspan><tspan
-         id="tspan6248"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         y="120.84604"
-         x="45.163036"
-         sodipodi:role="line">(a fraction p_a of</tspan><tspan
-         id="tspan6360"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         y="124.53255"
-         x="45.163036"
-         sodipodi:role="line">the population)</tspan><tspan
-         id="tspan5081"
-         style="stroke-width:0.25828472"
-         y="127.97635"
-         x="45.163036"
-         sodipodi:role="line" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.75503731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25828472"
-       x="77.273483"
-       y="113.473"
-       id="text5103"><tspan
-         sodipodi:role="line"
-         x="77.273483"
-         y="113.473"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         id="tspan5097">&quot;Superspreader&quot;:</tspan><tspan
-         sodipodi:role="line"
-         x="77.273483"
-         y="117.15952"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
-         id="tspan5115">infects b=10 others </tspan><tspan
-         id="tspan6246"
-         sodipodi:role="line"
-         x="77.273483"
-         y="120.84604"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472">(a small fraction ε</tspan><tspan
-         id="tspan6358"
-         sodipodi:role="line"
-         x="77.273483"
-         y="124.53255"
-         style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472">of the population)</tspan><tspan
-         sodipodi:role="line"
-         x="77.273483"
-         y="127.97635"
-         style="stroke-width:0.25828472"
-         id="tspan5101" /></text>
-    <g
-       id="g6187"
-       transform="matrix(1.8663781,0,0,1.8663781,-1.5773785,-128.62315)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path4613"
-         d="m 51.669373,139.57292 -9.714001,5.4334"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11129)"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10717)"
-         d="m 51.669373,139.57292 -4.989298,8.12648"
-         id="path1427"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1919"
-         d="m 51.669373,139.57292 4.989298,8.12648"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10311)" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9911)"
-         d="m 51.669373,139.57292 -1.625285,8.92968"
-         id="path2303"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path2717"
-         d="m 51.669373,139.57292 1.445772,8.88243"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9517)"
-         sodipodi:nodetypes="cc" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9129)"
-         d="m 51.669373,139.57292 7.540638,7.18154"
-         id="path3011"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3515"
-         d="m 51.669373,139.57292 -7.57841,7.0398"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8747)"
-         sodipodi:nodetypes="cc" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8737)"
-         d="m 51.669373,139.57292 9.714001,5.4334"
-         id="path4043"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="cc"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-         d="m 51.669373,139.57292 -10.942424,2.12611"
-         id="path5132"
-         inkscape:connector-curvature="0" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path5702"
-         d="m 51.669373,139.57292 10.942424,2.12611"
-         style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11971)"
-         sodipodi:nodetypes="cc" />
+         id="flowPara5065" /></flowRoot>    <g
+       id="g1424">
       <circle
-         r="1.3229166"
-         cy="139.57292"
-         cx="51.669373"
-         id="circle1165"
-         style="opacity:1;fill:#afc6e9;fill-opacity:1;stroke:#000000;stroke-width:0.26458332" />
+         r="2.4690626"
+         cy="131.87263"
+         cx="26.281204"
+         id="circle1167"
+         style="opacity:1;fill:#afc6e9;fill-opacity:1;stroke:#000000;stroke-width:0.4938125" />
+      <text
+         id="text5047"
+         y="113.473"
+         x="8.5213194"
+         style="font-style:normal;font-weight:normal;font-size:2.75503731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25828472"
+         xml:space="preserve"><tspan
+           id="tspan6303"
+           style="font-size:2.06627774px;stroke-width:0.25828472"
+           y="113.473"
+           x="8.5213194"
+           sodipodi:role="line"><tspan
+             id="tspan1413"
+             style="font-size:3.52777767px;line-height:1">Type 0 individual: </tspan></tspan><tspan
+           id="tspan1415"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="117.15952"
+           x="8.5213194"
+           sodipodi:role="line">infects 0 others, </tspan><tspan
+           id="tspan6462"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="120.84604"
+           x="8.5213194"
+           sodipodi:role="line">(most of the popu-</tspan><tspan
+           id="tspan6435"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="124.53255"
+           x="8.5213194"
+           sodipodi:role="line">lation of this type</tspan><tspan
+           id="tspan1419"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="128.21907"
+           x="8.5213194"
+           sodipodi:role="line">if R0 is close to 1)</tspan><tspan
+           id="tspan5049"
+           style="stroke-width:0.25828472"
+           y="131.66287"
+           x="8.5213194"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g1434"
+       transform="translate(21.268339)">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1217"
+         d="m 60.562608,131.87269 0.325986,15.73402"
+         style="fill:none;stroke:#000000;stroke-width:0.495;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11547)" />
+      <circle
+         style="opacity:1;fill:#afc6e9;fill-opacity:1;stroke:#000000;stroke-width:0.4938125"
+         id="circle823"
+         cx="60.562611"
+         cy="131.8727"
+         r="2.4690626" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:2.75503731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25828472"
+         x="45.163036"
+         y="113.473"
+         id="text5083"><tspan
+           sodipodi:role="line"
+           x="45.163036"
+           y="113.473"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           id="tspan5077">Type a individual:</tspan><tspan
+           sodipodi:role="line"
+           x="45.163036"
+           y="117.15952"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           id="tspan6238">infects a=1 other</tspan><tspan
+           sodipodi:role="line"
+           x="45.163036"
+           y="120.84604"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           id="tspan6248">(a fraction p_a of</tspan><tspan
+           sodipodi:role="line"
+           x="45.163036"
+           y="124.53255"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           id="tspan6360">the population)</tspan><tspan
+           sodipodi:role="line"
+           x="45.163036"
+           y="127.97635"
+           style="stroke-width:0.25828472"
+           id="tspan5081" /></text>
+    </g>
+    <g
+       id="g1454"
+       transform="translate(43.920855)">
+      <text
+         id="text5103"
+         y="113.473"
+         x="77.273483"
+         style="font-style:normal;font-weight:normal;font-size:2.75503731px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25828472"
+         xml:space="preserve"><tspan
+           id="tspan5097"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="113.473"
+           x="77.273483"
+           sodipodi:role="line">&quot;Superspreader&quot;:</tspan><tspan
+           id="tspan5115"
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="117.15952"
+           x="77.273483"
+           sodipodi:role="line">infects b=10 others </tspan><tspan
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="120.84604"
+           x="77.273483"
+           sodipodi:role="line"
+           id="tspan6246">(a small fraction ε</tspan><tspan
+           style="font-size:3.52777767px;line-height:1;stroke-width:0.25828472"
+           y="124.53255"
+           x="77.273483"
+           sodipodi:role="line"
+           id="tspan6358">of the population)</tspan><tspan
+           id="tspan5101"
+           style="stroke-width:0.25828472"
+           y="127.97635"
+           x="77.273483"
+           sodipodi:role="line" /></text>
+      <g
+         transform="matrix(1.8663781,0,0,1.8663781,-1.5773785,-128.62315)"
+         id="g6187">
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11129)"
+           d="m 51.669373,139.57292 -9.714001,5.4334"
+           id="path4613"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path1427"
+           d="m 51.669373,139.57292 -4.989298,8.12648"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10717)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker10311)"
+           d="m 51.669373,139.57292 4.989298,8.12648"
+           id="path1919"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path2303"
+           d="m 51.669373,139.57292 -1.625285,8.92968"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9911)"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9517)"
+           d="m 51.669373,139.57292 1.445772,8.88243"
+           id="path2717"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3011"
+           d="m 51.669373,139.57292 7.540638,7.18154"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9129)"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8747)"
+           d="m 51.669373,139.57292 -7.57841,7.0398"
+           id="path3515"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path4043"
+           d="m 51.669373,139.57292 9.714001,5.4334"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker8737)"
+           sodipodi:nodetypes="cc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5132"
+           d="m 51.669373,139.57292 -10.942424,2.12611"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+           sodipodi:nodetypes="cc" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.26521957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11971)"
+           d="m 51.669373,139.57292 10.942424,2.12611"
+           id="path5702"
+           inkscape:connector-curvature="0" />
+        <circle
+           style="opacity:1;fill:#afc6e9;fill-opacity:1;stroke:#000000;stroke-width:0.26458332"
+           id="circle1165"
+           cx="51.669373"
+           cy="139.57292"
+           r="1.3229166" />
+      </g>
     </g>
     <flowRoot
        xml:space="preserve"
