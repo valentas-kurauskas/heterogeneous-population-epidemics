@@ -21,7 +21,7 @@ For *G(n,p)* the blue line is the ["herd immunity threshold"](https://en.wikiped
 
 In the terminology of graph theory the first chart shows the giant component size as a function of the largest degree *b* while other parameters, including R0, which is expectation of the size-biased degree distribution minus one, *E D^2/E D - 1*, are kept fixed.
 
-My intuition of the "superspreader effect" is that the superspreaders are more likely to get infected first so the *effective growth rate* *Rt* is largest at the beginning. This is indeed the case in our toy configuration graph model, corresponding to *b=10* in the above chart (66.88% infect 0, 30.00% infect 1, 3.12% infect 10). The analytical results from [[1]](#1) for our toy model give this dynamics:
+My intuition of the "superspreader effect" is that the superspreaders are more likely to get infected first so the *effective growth rate* *Rt* is largest at the beginning. This is indeed the case in our toy configuration graph model, corresponding to *b=10* in the above chart (66.88% infect 0, 30.00% infect 1, 3.12% infect 10). The analytical results from [[1]](#1) with these parameters give:
 
 ![Example chart 2](example2.png)
 
