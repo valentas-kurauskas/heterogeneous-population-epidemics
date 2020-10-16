@@ -29,7 +29,7 @@ Here the time is (monotonically) transformed by the proof of [[1]](#1), it does 
 *y* axis in the first two subplots shows the proportion of the population. It can be seen that an active
 epidemic does not magically stop when the herd immunity threshold *Rt=1* is reached, a considerable *additional* fraction of the population is infected if no measure is taken. Conversely, if a stricter quarantine is enforced to stop the epidemic close to this threshold, the growth will not resume.
 
-In this toy experiment I was interested in the simplified quarantine situation. A similar effect should occur more generally due to heterogeneity of a population, see [[2]](#2), [[3]](#3) and recent papers citing them.
+In this toy experiment I was interested in the simplified quarantine situation. A similar effect should occur more generally due to heterogeneity of a population, see [[2]](#2), [[3]](#3), [[4]](#4) and recent papers citing them.
 
 # Literature
 
@@ -37,7 +37,8 @@ In this toy experiment I was interested in the simplified quarantine situation. 
 
 # Other important literature
 
+<a id="2">[2]</a> Håkan Andersson, Limit Theorems for a Random Graph Epidemic Model, *The Annals of Applied Probability* **8** (1998), 1331-1349.
 
-<a id="2">[2]</a> Tom Britton, Svante Janson and Anders Martin-Löf, Graphs with specified degree distributions, simple epidemics, and local vaccination strategies, *Advances in Applied Probability* **39** (2007), 922-948.
+<a id="3">[3]</a> Tom Britton, Svante Janson and Anders Martin-Löf, Graphs with specified degree distributions, simple epidemics, and local vaccination strategies, *Advances in Applied Probability* **39** (2007), 922-948.
 
-<a id="3">[3]</a> Mark E. Newman, Spread of epidemic disease on networks, *Physical Review E* (2002) **66**, 016128. 
+<a id="4">[4]</a> Mark E. Newman, Spread of epidemic disease on networks, *Physical Review E* (2002) **66**, 016128. 
