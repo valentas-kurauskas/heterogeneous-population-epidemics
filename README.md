@@ -1,5 +1,4 @@
-# Short description
-
+# Configuration graphs, epidemics and Rt in a heterogeneous population
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valentas-kurauskas/heterogeneous-population-epidemics/master)
 
